@@ -1,0 +1,6 @@
+{
+  "name": "Folhário",
+  "description": "Folhário é um PWA mobile-first para iniciantes brasileiros que precisam de ajuda prática com suas plantas: identificação por foto, guias simples de rega, Meu Jardim, progresso e fórum de ajuda.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
